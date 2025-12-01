@@ -46,6 +46,7 @@ git push --all origin : Pushes all to the online repository
 
 
 #Day4
+
 - git pull
 - git switch -c feature/<branch-name>
 - echo "<h1>Page content</h1>">file.html
