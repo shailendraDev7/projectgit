@@ -7,7 +7,7 @@ Created an account in Github
 Created a repository in github account
 
 
-#Day2
+#Day2 : Confguring the github remotely and locally
 
 ->Code for the First Time 
 git config --global user.name "shailendraDev7"
@@ -16,8 +16,7 @@ git config --global user.email "shailendrastha7@gmail.com"
 git remote add origin https://github.com/shailendraDev7/projectgit.git
 
 
-
-Golden Circle: Most of the time we'll use these commandlines of git for the project.
+GOLDEN CIRCLE: Most of the time we'll use these commandlines of git for the project.
 
 git init
 git add .
@@ -25,7 +24,6 @@ git commit -m "Commit Message" || Staged
 git push -u origin main
 
 [Commits: A simple snapshots/state of the project]
-
 
 #Day3
 
@@ -47,7 +45,9 @@ git push --all origin : Pushes all to the online repository
 
 #Day4
 
+Pulling & Merging
+
 - git pull
-- git switch -c feature/<branch-name>
+- git switch -c feature/<branch-name> 
 - echo "<h1>Page content</h1>">file.html
--echo "body {background: green}">>style.css
+- echo "body {background: green}">>style.css
